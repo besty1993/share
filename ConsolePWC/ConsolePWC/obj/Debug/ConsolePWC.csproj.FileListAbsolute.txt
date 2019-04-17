@@ -1,0 +1,19 @@
+C:\Users\ebin\Projects\VS Projects\ConsolePWC\ConsolePWC\bin\Debug\ConsolePWC.exe.config
+C:\Users\ebin\Projects\VS Projects\ConsolePWC\ConsolePWC\bin\Debug\ConsolePWC.exe
+C:\Users\ebin\Projects\VS Projects\ConsolePWC\ConsolePWC\bin\Debug\ConsolePWC.pdb
+C:\Users\ebin\Projects\VS Projects\ConsolePWC\ConsolePWC\obj\Debug\ConsolePWC.exe
+C:\Users\ebin\Projects\VS Projects\ConsolePWC\ConsolePWC\obj\Debug\ConsolePWC.pdb
+C:\Project\COG\ConsolePWC\ConsolePWC\bin\Debug\ConsolePWC.exe.config
+C:\Project\COG\ConsolePWC\ConsolePWC\bin\Debug\ConsolePWC.exe
+C:\Project\COG\ConsolePWC\ConsolePWC\bin\Debug\ConsolePWC.pdb
+C:\Project\COG\ConsolePWC\ConsolePWC\obj\Debug\ConsolePWC.csprojAssemblyReference.cache
+C:\Project\COG\ConsolePWC\ConsolePWC\obj\Debug\ConsolePWC.csproj.CoreCompileInputs.cache
+C:\Project\COG\ConsolePWC\ConsolePWC\obj\Debug\ConsolePWC.exe
+C:\Project\COG\ConsolePWC\ConsolePWC\obj\Debug\ConsolePWC.pdb
+F:\Research\COG\ConsolePWC\ConsolePWC\bin\Debug\ConsolePWC.exe.config
+F:\Research\COG\ConsolePWC\ConsolePWC\bin\Debug\ConsolePWC.exe
+F:\Research\COG\ConsolePWC\ConsolePWC\bin\Debug\ConsolePWC.pdb
+F:\Research\COG\ConsolePWC\ConsolePWC\obj\Debug\ConsolePWC.csprojAssemblyReference.cache
+F:\Research\COG\ConsolePWC\ConsolePWC\obj\Debug\ConsolePWC.csproj.CoreCompileInputs.cache
+F:\Research\COG\ConsolePWC\ConsolePWC\obj\Debug\ConsolePWC.exe
+F:\Research\COG\ConsolePWC\ConsolePWC\obj\Debug\ConsolePWC.pdb
