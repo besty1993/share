@@ -1,0 +1,4 @@
+dogs_vs_cats/weights
+dogs_vs_cats/weights/*
+dogs_vs_cats/data
+dogs_vs_cats/data/*
